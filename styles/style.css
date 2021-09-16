@@ -156,23 +156,6 @@ header{
 }
 /* End hero section. */
 
-/* Start footer section */
-footer{
-  margin-top: 30px;
-  width: 100%;
-  max-width: 100%;
-  position: absolute;
-  bottom: 0;
-  box-shadow: 0 -2px 2px 0 rgba(0, 0, 0, 0.1);
-}
-footer p{
-  color: rgba(0, 0, 0, 0.5);
-  font-size: 17px;
-  display: flex;
-  justify-content: center;
-}
-/* End footer section. */
-
 @media only screen and (max-width: 919px) {
   .container{
     width: 100%;
